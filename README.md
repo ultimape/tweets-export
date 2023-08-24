@@ -13,9 +13,9 @@ Any good decompression tool should work to extract them. I tend to use [7-Zip](h
 
 The tweets.js files were too big to upload into github directly (they were just over the 100MB limit, so it is [compressed in a .zip file](https://github.com/ultimape/tweets-export/raw/main/accounts/16288000/data/tweets.zip)
 
-Likewise, due to the sheer volume of images over the years, you will also have [to decompress the multi-part (001-174) tweet-media.zip file](https://github.com/ultimape/tweets-export/tree/main/accounts/16288000/data/tweets_media) as awell as other zip files if you want to view the other images.
+Likewise, due to the sheer volume of images over the years, you will also have [to decompress the multi-part (001-174) tweet-media.zip file](https://github.com/ultimape/tweets-export/tree/main/accounts/16288000/data/tweets_media) as well as other zip files if you want to view the other images.
 
 ## How to Download
 
-You can [Download a complete Zip Archive of this repository](https://github.com/ultimape/tweets-export/archive/refs/heads/main.zip) of the entire archive or click thru github to download 'raw' files individually.
+You can [Download a complete Zip Archive of this repository](https://github.com/ultimape/tweets-export/archive/refs/heads/main.zip), or click thru github to download 'raw' files individually.
 
