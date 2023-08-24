@@ -1,7 +1,8 @@
 # tweets-export
 
 ## About
-This contains the last good backup of my (@ultimape's) twitter in as raw as a format as possible. This is intended to seed tooling and other resources for analysis and easier managment outside of the twitter ecosystem.
+This contains the last good backup of my (@ultimape's) twitter in as raw as a format as possible. This should contain all my tweets up to 2023-08-19 (August 19th, 2023).
+This is intended to seed tooling and other resources for analysis and easier managment outside of the twitter ecosystem.
 The final export contained 112.1K posts and 10180 images and took up an entire 1.9GB zip file.
 
 If you're here because I am leaving Twitter/X, please know I will be keeping my [website's colophon](https://scat.wovensoup.com/colophon) up-to-date with where you can best find me elsewhere.
